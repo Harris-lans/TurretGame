@@ -1,0 +1,11 @@
+﻿  Game.cpp
+c:\users\pg12harish\documents\let them come\game\private\game.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pg12harish\documents\let them come\game\private\game.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pg12harish\documents\let them come\game\private\game.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pg12harish\documents\let them come\game\private\game.cpp(221): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  GameObject.cpp
+  Generating Code...
+EngineXd.lib(Engine.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(Engine.obj)' or at 'C:\Users\pg12harish\Documents\Let Them Come\Build\EngineX.pdb'; linking object as if no debug info
+EngineXd.lib(RenderPacket.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(RenderPacket.obj)' or at 'C:\Users\pg12harish\Documents\Let Them Come\Build\EngineX.pdb'; linking object as if no debug info
+EngineXd.lib(System.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(System.obj)' or at 'C:\Users\pg12harish\Documents\Let Them Come\Build\EngineX.pdb'; linking object as if no debug info
+  GameEngineX.vcxproj -> C:\Users\pg12harish\Documents\Let Them Come\Build\GameEngineXd.exe
